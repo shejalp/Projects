@@ -1,6 +1,6 @@
 # Tamil-handwritten-digit-recognition
 
-Problem Statement :
+# Problem Statement :
           The ability of computers to detect human handwritten digits is known as
           handwritten digit recognition. Because handwritten digits are not flawless and may
           be generated with a variety of tastes, it is a difficult assignment for the machine.
@@ -11,7 +11,7 @@ Problem Statement :
           minimizing human work and enhancing the system's versatility. A handwritten
           digit recognition system, for example, can be utilized in postal mail sorting, bank
           check processing, form data entry, teaching field and other applications.
-Solution Approach
+# Solution Approach
           The aim of the project is to predict the handwritten digit which is
           provided as an input in image format.Thus the dataset consists of images which are
           raw data collected in various formats.
